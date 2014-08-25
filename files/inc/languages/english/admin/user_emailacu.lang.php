@@ -1,8 +1,8 @@
 <?php
 /**
- * Email Admin-Created User 0.1 - Admin Language File
+ * Email Admin-Created User 1.0 - Admin Language File
 
- * Copyright 2010 Matthew Rogowski
+ * Copyright 2014 Matthew Rogowski
 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

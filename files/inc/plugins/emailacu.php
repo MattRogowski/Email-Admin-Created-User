@@ -1,8 +1,8 @@
 <?php
 /**
- * Email Admin-Created User 0.1
+ * Email Admin-Created User 1.0
 
- * Copyright 2010 Matthew Rogowski
+ * Copyright 2014 Matthew Rogowski
 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -29,11 +29,11 @@ function emailacu_info()
 	return array(
 		"name" => "Email Admin-Created User",
 		"description" => "If you create a user in the Admin CP, this will email them their account details so they can login.",
-		"website" => "http://mattrogowski.co.uk",
-		"author" => "MattRogowski",
+		"website" => "https://github.com/MattRogowski/Email-Admin-Created-User",
+		"author" => "Matt Rogowski",
 		"authorsite" => "http://mattrogowski.co.uk",
-		"version" => "0.1",
-		"compatibility" => "16*",
+		"version" => "1.0",
+		"compatibility" => "16*,18*",
 		"guid" => "a1988a3c204338b20a8d243552a1e284"
 	);
 }
