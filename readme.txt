@@ -2,8 +2,8 @@ Name: Email Admin-Created User
 Description: If you create a user in the Admin CP, this will email them their account details so they can login.
 Website: https://github.com/MattRogowski/Email-Admin-Created-User
 Author: Matt Rogowski
-Authorsite: http://mattrogowski.co.uk
-Version: 1.0
+Authorsite: https://matt.rogow.ski
+Version: 1.0.0
 Compatibility: 1.6.x, 1.8.x
 Files: 2
 
@@ -21,7 +21,7 @@ Change Log:
 06/12/10 - v0.1 -> Initial 'beta' release.
 25/08/14 - v0.1 -> v1.0 -> MyBB 1.8 compatible. To upgrade, deactivate, reupload ./inc/plugins/emailacu.php, activate.
 
-Copyright 2014 Matthew Rogowski
+Copyright 2016 Matthew Rogowski
 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
